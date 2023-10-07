@@ -1,0 +1,2 @@
+traducirmorse.traducirMorse
+traducirmorse.mostrardatos
